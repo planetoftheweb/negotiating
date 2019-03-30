@@ -1,6 +1,6 @@
 <!-- .slide: data-state="textonimage" data-background-image="http://pixelprowess.com/i/negotiating.png" -->
 
-# Negotiating<br>your Salary
+# Negotiating<br>for Developers
 
 <small>By Ray Villalobos</small>
 
