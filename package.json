@@ -1,0 +1,12 @@
+{
+  "name": "slideserver",
+  "version": "1.0.1",
+  "description": "This package.json allows you to run a mini-server just for previewing presentations.",
+  "main": "gulpfile.js",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0",
+    "gulp-folder-index": "0.0.3"
+  },
+  "author": "Ray Villalobos"
+}
